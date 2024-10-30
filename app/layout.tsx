@@ -26,7 +26,7 @@ interface LayoutProps {
 export default function RootLayout({ children }: LayoutProps) {
   return (
     <html lang="en">
-      <body className="max-w-screen-lg mx-auto px-4 border-2">
+      <body className="max-w-screen-lg mx-auto px-4">
         <Header />
         <main className="container w-full">{children}</main>
         
