@@ -10,13 +10,13 @@ const AboutPage = () => {
         <div className="flex-1 mb-8 md:mb-0 w-full max-w-3xl ">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white">I&apos;m Andrew Davies...</h1>
           <p className="mb-6">
-            As a semi-retired naval engineer and a passionate fitness enthusiast, I bring the same drive and attention to detail from my engineering career into my work with web development and app projects. I'm currently developing a range of innovative apps that fuse my love for fitness and technology.
-          </p>
-          <p className=" mb-6">
-            My experience in the naval field taught me how to solve complex problems under pressure and apply strategic thinking to every aspect of a project. I'm now channeling that expertise into building apps for early retirement, fitness, and investment tracking.
+            As a semi-retired naval engineer and a passionate fitness enthusiast, I bring the same drive and attention to detail from my engineering career into my work with web development and app projects. I&apos;m currently developing a range of innovative apps that fuse my love for fitness and technology.
           </p>
           <p className="mb-6">
-            When I&apos;m not coding or working on my projects, youll find me running, doing CrossFit, or exploring new ways to use technology to improve daily life. I'm inspired by the challenges and opportunities that lie at the intersection of fitness and tech.
+            My experience in the naval field taught me how to solve complex problems under pressure and apply strategic thinking to every aspect of a project. I&apos;m now channeling that expertise into building apps for early retirement, fitness, and investment tracking.
+          </p>
+          <p className="mb-6">
+            When I&apos;m not coding or working on my projects, you&apos;ll find me running, doing CrossFit, or exploring new ways to use technology to improve daily life. I&apos;m inspired by the challenges and opportunities that lie at the intersection of fitness and tech.
           </p>
         </div>
 
