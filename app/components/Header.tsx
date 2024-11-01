@@ -1,13 +1,6 @@
 
 
 export default function Header() {
-  const navigation = [
-    "Product",
-    "Features",
-    "Pricing",
-    "Company",
-    "Blog",
-  ];
   
   return (
     <header className=" text-white py-4">

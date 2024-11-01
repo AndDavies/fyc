@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 // Define the interface for the props
 interface ProjectCardProps {
@@ -20,12 +21,13 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
 }) => {
   return (
     <div className="bg-gray-800 text-white rounded-lg overflow-hidden shadow-md flex flex-col md:flex-row">
-      {/* Image Section */}
-      <div className="w-full md:w-48 h-48 flex-shrink-0 overflow-hidden rounded-t-lg md:rounded-l-lg md:rounded-t-none">
-        <img
+      {/* Image Section using Next.js Image component */}
+      <div className="w-full md:w-48 h-48 flex-shrink-0 overflow-hidden rounded-t-lg md:rounded-l-lg md:rounded-t-none relative">
+        <Image
           src={imageUrl}
           alt={`${title} Image`}
-          className="w-full h-full object-cover"
+          layout="fill" // Makes the image fill the parent container
+          objectFit="cover" // Ensures the image covers the container while maintaining aspect ratio
         />
       </div>
 
