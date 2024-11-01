@@ -1,4 +1,4 @@
-
+import Link from "next/link";
 
 export default function Header() {
   
@@ -12,10 +12,10 @@ export default function Header() {
         {/* Navigation Links */}
         <div className="font-sans nav-links flex space-x-6 text-gray-400 tracking-widest">
           <ul className="items-center justify-end flex-1 pt-6 list-none lg:pt-0 lg:flex">
-            <li className="mr-3 nav__item"><a href="#" className="hover:text-white">Projects</a></li>
-            <li className="mr-3 nav__item"><a href="#" className="hover:text-white">About Me</a></li>
-            <li className="mr-3 nav__item"><a href="#" className="hover:text-white">Blog</a></li>
-            <li className="mr-3 nav__item"><a href="#" className="hover:text-white">Contact</a></li>
+            <li className="mr-3 "><Link href="#" className="hover:text-white">Projects</Link></li>
+            <li className="mr-3 "><Link href="/about" className="hover:text-white">About Me</Link></li>
+            <li className="mr-3 "><Link href="#" className="hover:text-white">Blog</Link></li>
+            <li className="mr-3 "><Link href="#" className="hover:text-white">Contact</Link></li>
           </ul>
         </div>
       </div>

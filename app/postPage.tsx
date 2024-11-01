@@ -1,6 +1,5 @@
 import React from 'react';
 import { useRouter } from 'next/router';
-import { getAllPosts } from '../lib/posts';
 import matter from 'gray-matter';
 import fs from 'fs';
 import path from 'path';
