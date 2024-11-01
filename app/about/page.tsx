@@ -8,7 +8,7 @@ const AboutPage = () => {
       <div className="container mx-auto p-8 max-w-4xl flex flex-col md:flex-row">
         {/* Left Section */}
         <div className="flex-1 mb-8 md:mb-0 w-full max-w-3xl ">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white">I'm Andrew Davies...</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white">I&apos;m Andrew Davies...</h1>
           <p className="mb-6">
             As a semi-retired naval engineer and a passionate fitness enthusiast, I bring the same drive and attention to detail from my engineering career into my work with web development and app projects. I'm currently developing a range of innovative apps that fuse my love for fitness and technology.
           </p>
