@@ -1,5 +1,6 @@
 // Example in a Next.js component
 import React from 'react';
+import Image from 'next/image';
 
 const AboutPage = () => {
   return (
@@ -22,7 +23,12 @@ const AboutPage = () => {
         {/* Right Section */}
         <div className="flex-none md:ml-12 ">
           <div className="rounded-md overflow-hidden mb-6">
-            <img src="/images/andrew_profile.jpg" alt="Andrew Davies" className="max-h-[300px] max-w-[300px] rounded-md" />
+            <Image 
+                src="/images/andrew_profile.jpg" 
+                alt="Andrew Davies"
+                width={200}
+                height={200}
+            />
           </div>
           <div className="space-y-4">
             <a href="https://github.com/your-github" className="flex items-center space-x-2 hover:text-gray-400">
