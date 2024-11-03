@@ -16,6 +16,7 @@ export default function PostsPage() {
           date={post.date}
           excerpt={post.excerpt}
           tags={post.tags}
+          imgUrl={post.imgUrl}
           slug={post.slug}
         />
       ))}
