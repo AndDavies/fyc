@@ -3,6 +3,7 @@ title: "The Journey to Self-Mastery Begins in the Physical Realm"
 date: "2024-11-02"
 tags: ["Fitness"]
 excerpt: "How a simple quote from Greg Glassman has offered profound insight."
+imgUrl: "/images/posts/glassman.jpg"
 ---
 
 "The journey to self-mastery begins in the physical province because that is the easiest place to impart the essential lessons of success and to absorb them."
@@ -13,7 +14,7 @@ Key Takeaways for Your Journey to Self-Mastery:
 - Accept humility as a gift. Every moment of awkwardness is a chance to learn.
 - Surrender to what you can’t control. Trust the process, whether it’s a workout or a prayer.
 
-Years ago, I came across this quote from Greg Glassman. I don’t remember the exact day, but I remember how it hit me. At that point, I was a few years into recovery, a dedicated CrossFitter, and had even stepped into the role of a coach. I’d conquered some big feats in ultra-running, organized a Sunday morning trail-running group rooted in a shared ethos, and had made significant strides forward. Yet what mattered more than my physical accomplishments was the shift from being an unfit, self-centered, insecure mess to someone who could finally appreciate growth and community. Sure, I’d always had a good heart, but for years I had been completely lost.
+<strong>Years ago</strong>, I came across this quote from Greg Glassman. I don’t remember the exact day, but I remember how it hit me. At that point, I was a few years into recovery, a dedicated CrossFitter, and had even stepped into the role of a coach. I’d conquered some big feats in ultra-running, organized a Sunday morning trail-running group rooted in a shared ethos, and had made significant strides forward. Yet what mattered more than my physical accomplishments was the shift from being an unfit, self-centered, insecure mess to someone who could finally appreciate growth and community. Sure, I’d always had a good heart, but for years I had been completely lost.
 
 Recovery was the first pivotal step. It was a spiritual journey for a spiritually sick person, and it was anything but smooth. I tripped, fell, and struggled to establish routines. Meditation felt impossible. Prayers seemed to go unanswered. I wrestled with the spiritual growth I so desperately wanted. Then, this quote hit me like a ton of bricks.
 

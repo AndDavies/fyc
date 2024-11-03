@@ -18,6 +18,7 @@ export function getAllPosts() {
       date: data.date,
       tags: data.tags,
       excerpt: data.excerpt,
+      imgUrl: data.imgUrl,
       slug: fileName.replace(/\.md$/, ''), // Remove ".md" from filename to create slug
     };
   });

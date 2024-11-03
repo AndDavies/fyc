@@ -3,6 +3,7 @@ title: "The Journey of Digital Innovation and Fitness"
 date: "2024-11-01"
 tags: ["Fitness", "Technology", "Web Development"]
 excerpt: "Exploring how a naval engineer combines a passion for fitness and digital innovation."
+imgUrl: "/images/posts/journey_of_digital_innovation_and_fitness.jpg"
 ---
 
 With a foundation in naval engineering and a drive for early retirement through aggressive investing, I have set my sights on a new chapter that merges my technical expertise with a commitment to fitness and digital innovation. My journey from the naval world to web development is a testament to the power of persistence and lifelong learning.

@@ -12,8 +12,8 @@ const Page: React.FC = () => {
       <Hero />
       <section className="mt-16">
         <h2 className="text-3xl font-bold text-white mb-8">Recent Posts</h2>
-        <div>
-          {recentPosts.map(({ slug, title, date, excerpt, tags }) => (
+        <div className="flex flex-wrap gap-4">
+          {recentPosts.map(({ slug, title, date, excerpt, tags, imgUrl }) => (
             <PostCard
               key={slug}
               slug={slug}
@@ -21,6 +21,7 @@ const Page: React.FC = () => {
               date={date}
               excerpt={excerpt}
               tags={tags}
+              imgUrl={imgUrl} // Pass the image URL
             />
           ))}
         </div>
